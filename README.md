@@ -1,1 +1,1 @@
-# gitmap
+# a matplotlib example
